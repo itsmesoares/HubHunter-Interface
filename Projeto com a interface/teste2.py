@@ -1,4 +1,4 @@
-# A interface integrada e adicionei mais algumas coisas visuais
+# interface integrada e adicionei mais algumas coisas visuais
 
 import customtkinter
 from PIL import Image
