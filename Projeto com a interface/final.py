@@ -1,4 +1,4 @@
-#Este teste esta com 100% de precisão, arruimei também a busca pelas linguagens C# e C++
+#Este teste esta com 100% de precisão, arrumei também a busca pelas linguagens C# e C++
 
 import customtkinter
 from PIL import Image, ImageTk
